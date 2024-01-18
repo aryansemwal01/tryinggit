@@ -1,0 +1,2 @@
+# tryinggit
+just learning github
